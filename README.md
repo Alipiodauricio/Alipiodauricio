@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alipiodauricio&label=Profile%20views&color=0e75b6&style=flat" alt="alipiodauricio" /> </p>
 
-- 🌱 Atualmente busco estudar diversos cenários da programção **Front-End / Back-End**
+- 🌱 Atualmente busco estudar diversos cenários da programação **Front-End / Back-End**
+
+- 🌎 English Level: A2 (Low Intermediate)
 
 - 👨‍💻 Todos os meus projetos poderão ser encontrados em [https://github.com/Alipiodauricio/MyProjects](https://github.com/Alipiodauricio/MyProjects)
 
